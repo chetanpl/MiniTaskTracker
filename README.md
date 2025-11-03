@@ -101,12 +101,12 @@ Long task titles are truncated with "..." and the full title is visible on hover
 Screenshot:-
 The app displays all previously recorded tasks and their categories.
 
-![alt text](image.png)
+![alt text](./image.png)
 
 Validation: When trying to add a task without a name
 
-![alt text](image-1.png)
+![alt text](./image-1.png)
 
 Filtered Shows only tasks of the "Home" category. 
 
-![alt text](image-2.png)
+![alt text](./image-2.png)
