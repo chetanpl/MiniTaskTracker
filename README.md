@@ -75,6 +75,7 @@ npm install
 npm run dev
 
 The app will run at http://localhost:5173/ by default.
+The app also deployed at Vercel: https://mini-task-tracker-git-main-chetanpls-projects.vercel.app/
 
 ** Run all tests **
 
