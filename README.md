@@ -32,6 +32,7 @@ Here is deployed app Vercel link: https://mini-task-tracker-eight.vercel.app/
 ---
 
 ## Project Structure
+```
 src/
 │
 ├── context/
@@ -59,7 +60,7 @@ src/
 │   └── storage.js            # Load and save tasks from/to localStorage
 │
 └── App.jsx                   # Main entry point
-
+```
 
 ## Getting Started
 
