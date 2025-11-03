@@ -1,0 +1,86 @@
+:root {
+  font-family: system-ui, sans-serif;
+  background-color: #f6f8fa;
+  color: #222;
+}
+
+.container {
+  max-width: 600px;
+  margin: 3rem auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+}
+
+.formContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+form,
+.task {
+  margin-bottom: 1.25rem;
+}
+
+
+.filter{
+  margin-bottom: 1.25rem;
+  display: flex;
+  width: 60%;
+  margin: auto;
+}
+
+.filter #taskCategory {
+  flex: auto;
+}
+
+input,
+select,
+button {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin: 5px;
+}
+
+button {
+  background: #0078ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fcc;
+}
+
+.no-list {
+  margin-bottom: 1.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.task.completed .truncate-title {
+  text-decoration: line-through;
+  color: #121111;
+}
+.error {
+  border: 2px solid red;
+  outline: none;
+}
