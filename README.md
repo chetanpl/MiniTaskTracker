@@ -3,7 +3,7 @@
 A simple and lightweight **Task Tracker** built with **React**. This app allows users to quickly add, manage, and filter tasks by category. It uses **React Context** for state management, persists tasks in **localStorage**, and is fully tested with **Vitest** and **React Testing Library**.
 
 It is developed using the latest version of React (19.1.1).
-
+Here is deployed app Vercel link: https://mini-task-tracker-git-main-chetanpls-projects.vercel.app/
 ---
 
 ## Features
@@ -75,7 +75,7 @@ npm install
 npm run dev
 
 The app will run at http://localhost:5173/ by default.
-The app also deployed at Vercel: https://mini-task-tracker-git-main-chetanpls-projects.vercel.app/
+
 
 ** Run all tests **
 
