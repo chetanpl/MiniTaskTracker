@@ -101,14 +101,14 @@ Long task titles are truncated with "..." and the full title is visible on hover
 Screenshot:-
 The app displays all previously recorded tasks and their categories.
 
-<img width="509" height="382" alt="image" src="https://github.com/user-attachments/assets/4fadb0a4-b06e-448d-a435-2dd1efbce82e" />
+<img width="509" alt="image" height="382" alt="image" src="https://github.com/user-attachments/assets/4fadb0a4-b06e-448d-a435-2dd1efbce82e" />
 
 
 Validation: When trying to add a task without a name
 
-<img width="506" height="389" alt="image" src="https://github.com/user-attachments/assets/753d312c-db29-4a2f-a123-96cc7577d2bf" />
+<img width="506"  alt="image" height="389" alt="image" src="https://github.com/user-attachments/assets/753d312c-db29-4a2f-a123-96cc7577d2bf" />
 
 
 Filtered Shows only tasks of the "Home" category. 
 
-<img width="503" height="263" alt="image" src="https://github.com/user-attachments/assets/75e37c00-f42a-4ab3-b25a-2b6589076dd5" />
+<img width="503"  alt="image" height="263" alt="image" src="https://github.com/user-attachments/assets/75e37c00-f42a-4ab3-b25a-2b6589076dd5" />
