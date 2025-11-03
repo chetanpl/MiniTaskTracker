@@ -32,36 +32,34 @@ It is developed using the latest version of React (19.1.1).
 ---
 
 ## Project Structure
-
 src/
 │
 ├── context/
-│ ├── TaskContext.js # React Context for tasks
-│ └── TaskProvider.jsx # Provides TaskContext to components
+│   ├── TaskContext.js       # React Context for tasks
+│   └── TaskProvider.jsx     # Provides TaskContext to components
 │
 ├── features/tasks/
-│ ├── __tests__/
-│ │ └── TaskPage.test.jsx # Unit tests for tasks
-│ ├── components/
-│ │ ├── AddTask.jsx # Form to add tasks
-│ │ ├── TaskList.jsx # Display task list
-│ │ └── Filter.jsx # Category filter dropdown
-│ └── TaskPage.jsx # Page to display all task components
+│   ├── __tests__/
+│   │   └── TaskPage.test.jsx # Unit tests for tasks
+│   ├── components/
+│   │   ├── AddTask.jsx       # Form to add tasks
+│   │   ├── TaskList.jsx      # Display task list
+│   │   └── Filter.jsx        # Category filter dropdown
+│   └── TaskPage.jsx          # Page to display all task components
 │
 ├── hooks/
-│ └── useTasks.js # Custom hook for task context
+│   └── useTasks.js           # Custom hook for task context
 │
 ├── Shared/ui/
-│ ├── Button.jsx # Reusable button component
-│ └── Input.jsx # Reusable input component
+│   ├── Button.jsx            # Reusable button component
+│   ├── Input.jsx             # Reusable input component
+│   └── Select.jsx            # Reusable select dropdown component
 │
 ├── utils/
-│ └── storage.js # Load and save tasks from/to localStorage
+│   └── storage.js            # Load and save tasks from/to localStorage
 │
-└── App.jsx # Main entry point
+└── App.jsx                   # Main entry point
 
-
----
 
 ## Getting Started
 
