@@ -65,7 +65,7 @@ src/
 ## Getting Started
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/your-username/mini-task-tracker.git
 cd mini-task-tracker
 
@@ -98,7 +98,7 @@ Tasks remain saved even after refreshing the page.
 
 Long task titles are truncated with "..." and the full title is visible on hover via a tooltip.
 
-Screenshot:-
+### App Screenshot
 The app displays all previously recorded tasks and their categories.
 
 <img width="509" height="382" alt="image" src="https://github.com/user-attachments/assets/4fadb0a4-b06e-448d-a435-2dd1efbce82e" />
